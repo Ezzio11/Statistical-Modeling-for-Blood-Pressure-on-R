@@ -30,22 +30,7 @@ The ultimate goal is to enhance understanding of blood pressure patterns and the
 
 ## **Technologies Used**  
 - **Language**: R  
-- **Libraries**: Include libraries such as `ggplot2`, `dplyr`, `tidyverse`, and others for data manipulation, visualization, and analysis.
-
----
-
-## **How to Use the Repository**  
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/blood-pressure-analysis.git
-   cd blood-pressure-analysis
-   ```
-
-2. **Run the Analysis**  
-   Open the R scripts in your preferred R environment (e.g., RStudio) to explore the analysis steps.
-
-3. **Dataset**  
-   Replace the placeholder dataset with your own or use the pre-loaded dataset for replication.
+- **Libraries**: Include libraries such as `ggplot2`, `GGally`, `car`, and others for data manipulation, visualization, and analysis.
 
 ---
 
@@ -66,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Acknowledgments**  
-Special thanks to the community for their contributions and resources that supported this analysis.
+Special thanks to Mohamed El Samahy and Abdelrahman Mostafa Kamel for their contributions and resources that supported this analysis.
